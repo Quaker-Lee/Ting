@@ -710,3 +710,7 @@ graph LR
 
 ### v1.0.5 (현재 버전)  
 - [🚀v1.0.5 런칭](https://github.com/ProjectTing/Ting/pull/264)
+
+### v1.0.6 
+- [🚀v1.0.6 런칭](https://github.com/ProjectTing/Ting/pull/279)
+
